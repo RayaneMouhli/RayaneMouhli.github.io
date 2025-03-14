@@ -3,12 +3,12 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Eloi
+first_name: Rayane
 middle_name: 
-last_name: TANGUY
-email: eloi.tanguy@math.cnrs.fr
+last_name: Mouhli
+email: rayane.mouhli@math.cnrs.fr
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Eloi Tanguy's website
+  Rayane Mouhli's website
 # footer_text: >
 #   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 #   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -67,7 +67,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: eloitanguy # your GitHub user name
+github_username: RayaneMouhli # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 linkedin_username: eloi-tanguy-37280a194 # your LinkedIn user name
@@ -231,8 +231,8 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 
 scholar:
 
-  last_name: [Tanguy]
-  first_name: [Eloi, E.]
+  last_name: [Mouhli]
+  first_name: [Rayane, R.]
 
   style: apa
   locale: en
