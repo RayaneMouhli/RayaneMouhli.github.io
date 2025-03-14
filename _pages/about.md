@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-PhD student under the supervision of [Julie Delon](https://judelo.github.io/) and [Agnès Desolneux](https://desolneux.perso.math.cnrs.fr/).
+PhD student under the supervision of [Barbara Gris](http://gris.perso.math.cnrs.fr/fr/) and [Irène Kaltenmark](https://desolneux.perso.math.cnrs.fr/).
 
 I study Optimal Transport, in particular Generalised Wasserstein Barycentres, the Sliced Wasserstein Distance and GMM-restricted OT. 
 
