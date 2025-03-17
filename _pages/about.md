@@ -2,6 +2,7 @@
 layout: about
 title: about
 permalink: /
+subtitle: PhD student in mathematics at MAP5 (Paris).
 
 profile:
   align: right
