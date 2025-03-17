@@ -11,7 +11,7 @@ profile:
     <p>725C1, MAP5, Université Paris-Cité</p>
     <p>45, rue des Saints Pères, 75270 Paris Cedex 06, FRANCE</p>
 
-news: false  # includes a list of news items
+news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
