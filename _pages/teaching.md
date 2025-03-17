@@ -11,12 +11,12 @@ nav_order: 5
 
 ## 2024-2025
 
-### - Chargé de TD - Mathématiques et Calcul 2  (Licence 1)
-### - Chargé de TD - Calcul différentiel et systèmes dynamiques (Licence 3)
+#### - Chargé de TD - Mathématiques et Calcul 2  (Licence 1)
+#### - Chargé de TD - Calcul différentiel et systèmes dynamiques (Licence 3)
 
 
 ## 2023-2024
 
-### - Chargé de TD - Mathématiques et Calcul 2  (Licence 1)
+#### - Chargé de TD - Mathématiques et Calcul 2  (Licence 1)
 
 
