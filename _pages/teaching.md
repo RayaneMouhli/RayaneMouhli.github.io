@@ -9,6 +9,7 @@ nav_order: 5
 
 2024--2025
     - Univ. Paris Cité : Chargé de TD - Mathématiques et Calcul 2 (Licence 1 Maths-Info)
+    
     - Univ. Paris Cité : Chargé de TD - Calcul différentiel et systèmes dynamiques (Licence 3)
     
     
