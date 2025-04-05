@@ -27,8 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a PhD student in applied mathematics at MAP5 (Université Paris Cité) and LJLL (Sorbonne Université) under the supervision of [Barbara Gris](http://gris.perso.math.cnrs.fr/fr/) and [Irène Kaltenmark](https://desolneux.perso.math.cnrs.fr/). Previously, I was a visiting scholar at University of Utah where i worked with [Sarang Joshi](https://www.sci.utah.edu/people/sjoshi.html)
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My main research interests span infinite dimensional geometry, Lie groups, and shape analysis. More specifically, I am currently working on decorrelation of vector fields and growth models. If you want to discuss, feel free to contact me !
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
