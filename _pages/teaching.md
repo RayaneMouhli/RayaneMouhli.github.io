@@ -1,12 +1,36 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description: " "
 nav: true
-nav_order: 6
+nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+# Université Paris-Cité
 
-Organize your courses by years, topics, or universities, however you like!
+## 2024-2025
+
+#### - Chargé de TD + Encadrant de projet - Mathématiques et Calcul 2  (Licence 1)
+
+Corrections d'interrogations : 
+
+  - Algèbre linéaire [pdf](https://rayanemouhli.github.io/assets/pdf/MC2-alglin-2425.pdf)
+  - Géométrie et intégrales (fait par Guillaume Serieys) [pdf](https://rayanemouhli.github.io/assets/pdf/MC2-geomint-2425.pdf)
+  - 
+#### - Chargé de TD - Calcul différentiel et systèmes dynamiques (Licence 3)
+
+
+## 2023-2024
+
+#### - Chargé de TD - Mathématiques et Calcul 2  (Licence 1)
+
+Corrections d'interrogations : 
+
+  - Algèbre linéaire  [pdf](https://rayanemouhli.github.io/assets/pdf/MC2-alglin-2324.pdf)
+  - Géométrie et intégrales [pdf](https://rayanemouhli.github.io/assets/pdf/MC2-geomint-2324.pdf)
+  - Intégrations [pdf](https://rayanemouhli.github.io/assets/pdf/MC2-Integration-2324.pdf)
+  - Séries numériques et équations différentielles [pdf](https://rayanemouhli.github.io/assets/pdf/MC2-serienumequadiff-2324.pdf)
+
+
+
