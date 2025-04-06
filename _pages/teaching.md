@@ -17,7 +17,7 @@ Corrections d'interrogations :
 
   - Algèbre linéaire [pdf](https://rayanemouhli.github.io/assets/pdf/MC2-alglin-2425.pdf)
   - Géométrie et intégrales (fait par Guillaume Serieys) [pdf](https://rayanemouhli.github.io/assets/pdf/MC2-geomint-2425.pdf)
-  - 
+    
 ####  Calcul différentiel et systèmes dynamiques (Licence 3) - Chargé de TD 
 
 
