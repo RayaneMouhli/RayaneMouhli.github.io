@@ -180,6 +180,7 @@ exclude:
   - Dockerfile
   - docker-compose.yml
   - docker-compose-slim.yml
+  - _pages/blog.md
   - FAQ.md
   - Gemfile
   - Gemfile.lock
