@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:tv:  I gave a talk at the workshop "Infinite-dimensional Geometry : Theory and Applications" at Erwin Schrodinger Institute in Vienna (Austria) on the decorrelation of vector fields with speed of varifolds. [Video](https://www.youtube.com/watch?v=ds8odUOmPWM)
+:tv:  I gave a talk at the workshop "Infinite-dimensional Geometry : Theory and Applications" at Erwin Schrodinger Institute in Vienna (Austria) on the decorrelation of vector fields with speed of varifolds. ([Video](https://www.youtube.com/watch?v=ds8odUOmPWM),[slides](https://rayanemouhli.github.io/assets/pdf/Vienna_talk.pdf))
