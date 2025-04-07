@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:tv:  I gave a talk at the MAP5 lab PhDs’ seminar about LDDMM and decorrelation of vector fields using speed of varifolds.
+:tv:  I gave a talk at the MAP5 lab PhDs’ seminar about LDDMM and decorrelation of vector fields using speed of varifolds. ([slides](https://rayanemouhli.github.io/assets/pdf/GTE-talks.pdf))
