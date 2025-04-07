@@ -6,6 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Rayane
 middle_name: 
 last_name: Mouhli
+email : rayane.mouhli@math.cnrs.fr
 contact_note: 
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: 
