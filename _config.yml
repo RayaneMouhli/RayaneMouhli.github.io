@@ -181,6 +181,10 @@ exclude:
   - docker-compose.yml
   - docker-compose-slim.yml
   - _pages/blog.md
+  - _pages/profiles.md
+  - _pages/repositories.md
+  - _pages/projects.md
+  - _pages/books.md
   - FAQ.md
   - Gemfile
   - Gemfile.lock
