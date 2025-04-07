@@ -185,6 +185,7 @@ exclude:
   - _pages/repositories.md
   - _pages/projects.md
   - _pages/books.md
+  - _pages/dropdown.md
   - FAQ.md
   - Gemfile
   - Gemfile.lock
