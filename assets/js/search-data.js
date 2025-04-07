@@ -440,14 +440,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-tv-i-gave-a-talk-at-the-congrès-des-jeunes-chercheurs-en-mathématiques-appliquées-cjc-ma-in-lyon-on-the-decorrelation-of-vector-fields-with-speed-of-varifolds",
+            },},{id: "news-tv-i-gave-a-talk-at-the-congrès-des-jeunes-chercheurs-en-mathématiques-appliquées-cjc-ma-in-lyon-on-the-decorrelation-of-vector-fields-with-speed-of-varifolds",
           title: ':tv: I gave a talk at the Congrès des Jeunes Chercheurs en Mathématiques...',
           description: "",
           section: "News",},{id: "news-tv-i-gave-a-talk-at-the-workshop-infinite-dimensional-geometry-theory-and-applications-at-erwin-schrodinger-institute-in-vienna-austria-on-the-decorrelation-of-vector-fields-with-speed-of-varifolds",
           title: ':tv: I gave a talk at the workshop “Infinite-dimensional Geometry : Theory and...',
+          description: "",
+          section: "News",},{id: "news-tv-i-gave-a-talk-at-the-map5-lab-phds-seminar-about-lddmm-and-decorrelation-of-vector-fields-using-speed-of-varifolds",
+          title: ':tv: I gave a talk at the MAP5 lab PhDs’ seminar about LDDMM...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
