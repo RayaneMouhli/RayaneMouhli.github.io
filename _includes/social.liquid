@@ -20,19 +20,6 @@
       <a href="https://www.linkedin.com/in/{{ social[1] }}" title="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
      {% when 'scholar_userid' %}
       <a href="https://scholar.google.com/citations?user={{ social[1] }}" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
-
-    {% else %}
-      <a href="{{ social[1].url }}" title="{{ social[1].title }}">
-        {% assign file_ext = social[1].logo | split: '.' | last %}
-        {% if file_ext == 'svg' %}
-          <svg>
-            <image xlink:href="{% if social[1].logo contains '://' %}{{ social[1].logo }}{% else %}{{ social[1].logo | relative_url }}{% endif %}" />
-          </svg>
-        {% else %}
-          <img
-            src="{% if social[1].logo contains '://' %}{{ social[1].logo }}{% else %}{{ social[1].logo | relative_url }}{% endif %}"
-            alt="{{ social[1].title }}"
-          >
         {% endif %}
       </a>
   {% endcase %}
