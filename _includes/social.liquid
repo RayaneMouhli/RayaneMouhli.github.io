@@ -7,10 +7,8 @@
         &emsp;&ensp;
     {% for social in site.data.socials %}
   {% case social[0] %}
-    {% when 'email' %}
-      <a href="mailto:{{ social[1] | encode_email }}" title="email"><i class="fa-solid fa-envelope"></i></a>
    {% when 'github_username' %}
-      <a href="https://github.com/{{ social[1] }}" title="GitHub"><i class="fa-brands fa-github"></i> </a>
+      <a href="https://github.com/{{ social[1] }}" title="GitHub"><i class="fa-brands fa-github"></i>{{ social[1] }} </a>
     {% when 'gitlab_username' %}
       <a href="https://gitlab.com/{{ social[1] }}" title="GitLab"><i class="fa-brands fa-gitlab"></i></a>
       <a href="https://www.kaggle.com/{{ social[1] }}" title="Kaggle"><i class="fa-brands fa-kaggle"></i></a>
