@@ -43,12 +43,14 @@
   --global-danger-block-text: #600;
   --global-danger-block-title: #c00;
 
-
-
-  #light-toggle-dark {
-   padding-left: 10px;
+  #light-toggle-system {
+    padding-left: 10px;
     padding-top: 12px;
     display: block;
+  }
+
+  #light-toggle-dark {
+    display: none;
   }
 
   #light-toggle-light {
