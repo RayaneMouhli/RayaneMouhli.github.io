@@ -1,10 +1,10 @@
 ---
 layout: cv
-permalink: /cv/
+permalink: /assets/pdf/Rayane_MOUHLI_resume.pdf
 title: CV
 nav: true
 nav_order: 5
-cv_pdf: Rayane_MOUHLI_resume.pdf # you can also use external links here
+
 description:
 toc:
   sidebar: left
