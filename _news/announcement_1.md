@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I gave a talk at the Congrès des Jeunes Chercheurs en Mathématiques Appliquées (CJC-MA) in Lyon, on the decorrelation of vector fields with speed of varifolds. ([slides](https://rayanemouhli.github.io/assets/pdf/CJCMA-talk.pdf))
+I gave a talk at the Congrès des Jeunes Chercheurs en Mathématiques Appliquées ([CJC-MA](https://cjc-ma2024.sciencesconf.org/)) in Lyon, on the decorrelation of vector fields with speed of varifolds. ([slides](https://rayanemouhli.github.io/assets/pdf/CJCMA-talk.pdf))
