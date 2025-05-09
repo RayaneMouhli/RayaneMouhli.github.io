@@ -20,7 +20,7 @@ Corrections d'interrogation :
   - Algèbre linéaire [pdf](https://rayanemouhli.github.io/assets/pdf/MC2-alglin-2425.pdf)
   - Géométrie et intégrales (fait par Guillaume Serieys) [pdf](https://rayanemouhli.github.io/assets/pdf/MC2-geomint-2425.pdf)
   - Intégration [pdf](https://rayanemouhli.github.io/assets/pdf/MC2-integration-2425.pdf)
-  - Intégration, séries numériques et équations différentielles [pdf](https://rayanemouhli.github.io/assets/pdf/MC2-int_series_edo-2425.pdf)
+  - Intégration, séries numériques et équations différentielles (fait par Guillaume Serieys) [pdf](https://rayanemouhli.github.io/assets/pdf/MC2-int_series_edo-2425.pdf)
 
 
 ##### - Calcul différentiel et systèmes dynamiques (Licence 3) - Chargé de TD 
