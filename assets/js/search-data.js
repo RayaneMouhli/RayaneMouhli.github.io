@@ -42,10 +42,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-gave-a-talk-at-the-congrès-des-jeunes-chercheurs-en-mathématiques-appliquées-cjc-ma-in-lyon-on-the-decorrelation-of-vector-fields-with-speed-of-varifolds-slides",
-          title: 'I gave a talk at the Congrès des Jeunes Chercheurs en Mathématiques Appliquées...',
-          description: "",
-          section: "News",},{id: "news-i-gave-a-talk-at-the-workshop-infinite-dimensional-geometry-theory-and-applications-at-erwin-schrodinger-institute-in-vienna-austria-on-the-decorrelation-of-vector-fields-with-speed-of-varifolds-slides-video",
+            },},{id: "news-i-gave-a-talk-at-the-workshop-infinite-dimensional-geometry-theory-and-applications-at-erwin-schrodinger-institute-in-vienna-austria-on-the-decorrelation-of-vector-fields-with-speed-of-varifolds-slides-video",
           title: 'I gave a talk at the workshop “Infinite-dimensional Geometry : Theory and Applications”...',
           description: "",
           section: "News",},{id: "news-i-gave-a-talk-at-the-map5-lab-phds-seminar-about-lddmm-and-decorrelation-of-vector-fields-using-speed-of-varifolds-slides",
