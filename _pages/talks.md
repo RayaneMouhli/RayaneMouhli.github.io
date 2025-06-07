@@ -7,6 +7,8 @@ nav: true
 nav_order: 3
 ---
 
+- May 2025 : [Shape seminar](https://shape-analysis.github.io/) about Decorrelation of vector fields using first variation of varifolds. ([slides](https://rayanemouhli.github.io/assets/pdf/shape_seminar.pdf))
+
 - Feb 2025 : [MAP5 lab PhDs’ seminar](https://map5.mi.parisdescartes.fr/events/rayane-mouhli-2/) about LDDMM and decorrelation of vector fields using speed of varifolds. ([slides](https://rayanemouhli.github.io/assets/pdf/GTE_talk.pdf))
 
 - Feb 2025 :  "[Infinite-dimensional Geometry : Theory and Applications](https://www.esi.ac.at/events/e550/)" at Erwin Schrodinger Institute in Vienna (Austria) on the decorrelation of vector fields with speed of varifolds. ([slides](https://rayanemouhli.github.io/assets/pdf/Vienna_talk.pdf), [video](https://www.youtube.com/watch?v=ds8odUOmPWM))
