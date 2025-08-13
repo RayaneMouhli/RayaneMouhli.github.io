@@ -49,7 +49,7 @@ ninja.data = [{
           title: 'I gave a talk at the Shape seminar about Decorrelation of vector fields...',
           description: "",
           section: "News",},{id: "news-we-organized-a-workshop-for-the-young-researchers-of-the-fp2m-outils-des-jeunes-chercheurs-et-chercheuses-de-la-fp2m",
-          title: 'We organized a workshop for the young researchers of the FP2M :: “Outils...',
+          title: 'We organized a workshop for the young researchers of the FP2M : “Outils...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
