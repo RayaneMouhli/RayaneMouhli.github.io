@@ -24,8 +24,8 @@ latest_posts:
 ---
 I am a PhD student in applied mathematics at MAP5 (Université Paris Cité) and LJLL (Sorbonne Université) under the supervision of [Barbara Gris](http://gris.perso.math.cnrs.fr/fr/) and [Irène Kaltenmark](https://sites.google.com/site/irenekaltenmark/). Previously, I was a visiting scholar at University of Utah where i worked with [Sarang Joshi](https://www.bme.utah.edu/profile/?unid=u0492366). 
 
-I am also part of [Inria CAGE](https://www.ljll.fr/~sigalotti/cage/home.html)'s team and a member of the organisation team of the Federation Parisienne de Modélisation Mathématiques ([FP2M](https://fp2m.math.cnrs.fr/index.html)) PhD's seminar.  
+I am also part of [Inria CAGE](https://www.ljll.fr/~sigalotti/cage/home.html)'s team and a member of the organisation team of the Federation Parisienne de Modélisation Mathématiques ([FP2M](https://fp2m.math.cnrs.fr/ephemeres.html)) PhD's seminar.  
 
-My main research interests span infinite-dimensional geometry, Lie groups, and shape analysis. More specifically, I am currently working on decorrelation of vector fields and growth models. If you want to discuss, feel free to contact me !
+My main research interests span infinite-dimensional geometry, Lie groups, and shape analysis. More specifically, I am currently working on decorrelation of different modes of deformations. If you want to discuss, feel free to contact me !
 
 
