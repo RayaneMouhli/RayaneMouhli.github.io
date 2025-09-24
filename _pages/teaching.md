@@ -10,6 +10,19 @@ nav_order: 5
 # Université Paris-Cité
 <br>
 
+## 2025-2026
+
+#####  - Mathématiques et Calcul 1  (Licence 1) : Chargé de TD 
+
+Corrections d'interrogation : 
+
+  - Logique, ensembles, fonctions [pdf](https://rayanemouhli.github.io/assets/pdf/interro1_MC1.pdf)
+
+
+##### - Calcul différentiel et systèmes dynamiques (Licence 3) - Chargé de TD 
+
+<br>
+<br>
 
 ## 2024-2025
 
