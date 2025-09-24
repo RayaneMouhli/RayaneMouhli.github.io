@@ -43,10 +43,10 @@ ninja.data = [{
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
             },},{id: "news-i-gave-a-talk-at-the-map5-lab-phds-seminar-about-lddmm-and-decorrelation-of-vector-fields-using-speed-of-varifolds-slides",
-          title: 'I gave a talk at the MAP5 lab PhDs’ seminar about LDDMM and...',
+          title: 'I gave a talk at the MAP5 lab PhDs’ seminar about “LDDMM and...',
           description: "",
           section: "News",},{id: "news-i-gave-a-talk-at-the-shape-seminar-about-decorrelation-of-vector-fields-with-first-variation-of-varifolds-slides-video",
-          title: 'I gave a talk at the Shape seminar about Decorrelation of vector fields...',
+          title: 'I gave a talk at the Shape seminar about “Decorrelation of vector fields...',
           description: "",
           section: "News",},{id: "news-we-organized-a-workshop-for-the-young-researchers-of-the-fp2m-outils-des-jeunes-chercheurs-et-chercheuses-de-la-fp2m",
           title: 'We organized a workshop for the young researchers of the FP2M : “Outils...',
