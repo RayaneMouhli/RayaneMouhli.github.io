@@ -18,6 +18,7 @@ Corrections d'interrogation :
 
   - Logique, ensembles, fonctions [pdf](https://rayanemouhli.github.io/assets/pdf/interro1_MC1.pdf)
   - Logique, ensembles, fonctions et Complexes [pdf](https://rayanemouhli.github.io/assets/pdf/interro2_MC1.pdf)
+  - Complexes et Polynômes [pdf](https://rayanemouhli.github.io/assets/pdf/interro3_MC1.pdf)
 
 
 ##### - Calcul différentiel et systèmes dynamiques (Licence 3) - Chargé de TD 
