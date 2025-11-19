@@ -10,8 +10,7 @@ nav_order: 2
 <!-- _pages/publications.md -->
 
 <!-- Bibsearch Feature -->
-### Publications
-See my [Google Scholar](https://scholar.google.com/citations?user=XlqX4ywAAAAJ&sortby=pubdate)
+### Publications (See also my [Google Scholar](https://scholar.google.com/citations?user=XlqX4ywAAAAJ&sortby=pubdate))
 
 {% include bib_search.liquid %}
 
