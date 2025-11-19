@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-We organized a workshop for the young researchers of the FP2M : ["Outils des Jeunes Chercheurs et Chercheuses de la FP2M"](https://fp2m.math.cnrs.fr/manifestations.html)
+We organized a workshop for the young researchers of the FP2M : ["Outils des Jeunes Chercheurs et Chercheuses de la FP2M"](https://fp2m.math.cnrs.fr/manifestations.html).
