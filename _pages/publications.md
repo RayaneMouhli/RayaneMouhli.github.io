@@ -10,7 +10,7 @@ nav_order: 2
 <!-- _pages/publications.md -->
 
 <!-- Bibsearch Feature -->
-#### Publications
+### Publications
 See my [Google Scholar](https://scholar.google.com/citations?user=XlqX4ywAAAAJ&sortby=pubdate)
 
 {% include bib_search.liquid %}
@@ -21,7 +21,7 @@ See my [Google Scholar](https://scholar.google.com/citations?user=XlqX4ywAAAAJ&s
 
 </div>
 
-##### Talks
+### Talks
 
 - May 2025 : [Shape seminar](https://shape-analysis.github.io/) about "Decorrelation of vector fields using first variation of varifolds". ([slides](https://rayanemouhli.github.io/assets/pdf/shape_seminar_talk.pdf), [video](https://www.youtube.com/watch?v=5bU_OOkXbFA))
 
