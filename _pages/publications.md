@@ -11,6 +11,7 @@ nav_order: 2
 
 <!-- Bibsearch Feature -->
 #### Publications
+See my [Google Scholar](https://scholar.google.com/citations?user=XlqX4ywAAAAJ&sortby=pubdate)
 
 {% include bib_search.liquid %}
 
