@@ -48,7 +48,7 @@ ninja.data = [{
           title: 'Our preprint Decoupling actions of finite-dimensional Lie groups and of groups of diffeomorphisms...',
           description: "",
           section: "News",},{id: "news-we-organized-a-seminar-for-the-young-researchers-of-the-fp2m-program",
-          title: 'We organized a seminar for the young researchers of the FP2M. Program',
+          title: 'We organized a seminar for the young researchers of the FP2M (program).',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
