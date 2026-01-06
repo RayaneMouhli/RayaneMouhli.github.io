@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-We organized a seminar for the young researchers of the FP2M. [Program](https://rayanemouhli.github.io/assets/pdf/FP2M_janvier_2026.pdf)
+We organized a seminar for the young researchers of the FP2M ([program](https://rayanemouhli.github.io/assets/pdf/FP2M_janvier_2026.pdf)).
