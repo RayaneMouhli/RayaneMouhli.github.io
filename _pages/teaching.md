@@ -15,7 +15,6 @@ nav_order: 5
 #####  - Mathématiques et Calcul 1  (Licence 1) : Chargé de TD 
 
 Corrections d'interrogation : 
-
   - Logique, ensembles, fonctions [pdf](https://rayanemouhli.github.io/assets/pdf/interro1_MC1.pdf)
   - Logique, ensembles, fonctions et Complexes [pdf](https://rayanemouhli.github.io/assets/pdf/interro2_MC1.pdf)
   - Complexes et Polynômes [pdf](https://rayanemouhli.github.io/assets/pdf/interro3_MC1.pdf)
@@ -24,7 +23,6 @@ Corrections d'interrogation :
 #####  - Mathématiques et Calcul 2  (Licence 1) : Chargé de TD 
 
 Corrections d'interrogation : 
-
   - Algèbre linéaire [pdf](https://rayanemouhli.github.io/assets/pdf/interro1_MC2.pdf)
 
 <br>
@@ -35,7 +33,6 @@ Corrections d'interrogation :
 #####  - Mathématiques et Calcul 2  (Licence 1) : Chargé de TD + Encadrant de projet
 
 Corrections d'interrogation : 
-
   - Algèbre linéaire [pdf](https://rayanemouhli.github.io/assets/pdf/MC2-alglin-2425.pdf)
   - Géométrie et intégrales (fait par Guillaume Serieys) [pdf](https://rayanemouhli.github.io/assets/pdf/MC2-geomint-2425.pdf)
   - Intégration [pdf](https://rayanemouhli.github.io/assets/pdf/MC2-integration-2425.pdf)
@@ -52,7 +49,6 @@ Corrections d'interrogation :
 ##### -  Mathématiques et Calcul 2  (Licence 1) : Chargé de TD 
 
 Corrections d'interrogation : 
-
   - Algèbre linéaire  [pdf](https://rayanemouhli.github.io/assets/pdf/MC2-alglin-2324.pdf)
   - Géométrie et intégrales [pdf](https://rayanemouhli.github.io/assets/pdf/MC2-geomint-2324.pdf)
   - Intégration [pdf](https://rayanemouhli.github.io/assets/pdf/MC2-Integration-2324.pdf)
