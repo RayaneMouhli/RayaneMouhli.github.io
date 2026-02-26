@@ -24,6 +24,8 @@ Corrections d'interrogation :
 
 Corrections d'interrogation : 
   - Algèbre linéaire [pdf](https://rayanemouhli.github.io/assets/pdf/interro1_MC2.pdf)
+  - Géométrie et intégration [pdf](https://rayanemouhli.github.io/assets/pdf/Interro2_MC2.pdf)
+  - Sommes de Riemann (bonus) [pdf](https://rayanemouhli.github.io/assets/pdf/Interro2_bonus_MC2.pdf)
 
 <br>
 <br>
