@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-<h1 class="mb-4">Université Paris Cité</h1>
+<h2 class="mb-4">Université Paris Cité</h2>
 
 <h3 class="mt-5 mb-3">2025-2026</h3>
 
