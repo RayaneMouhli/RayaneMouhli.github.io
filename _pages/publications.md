@@ -21,7 +21,8 @@ nav_order: 2
 </div>
 
 ### Talks
-
+- Jan 2026 [MAP5 lab PhDs’ seminar](https://map5.mi.parisdescartes.fr/events/rayane-mouhli-2/) about "Introduction to shape analysis" ([slides](https://rayanemouhli.github.io/assets/pdf/Introduction_shape_analysis.pdf)).
+  
 - May 2025 : [Shape seminar](https://shape-analysis.github.io/) about "Decorrelation of vector fields using first variation of varifolds" ([slides](https://rayanemouhli.github.io/assets/pdf/shape_seminar_talk.pdf), [video](https://www.youtube.com/watch?v=5bU_OOkXbFA)).
 
 - Feb 2025 : [MAP5 lab PhDs’ seminar](https://map5.mi.parisdescartes.fr/events/rayane-mouhli-2/) about "LDDMM and decorrelation of vector fields using first variation of varifolds" ([slides](https://rayanemouhli.github.io/assets/pdf/GTE_talk.pdf)).
