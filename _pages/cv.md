@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: /assets/pdf/Rayane_MOUHLI_resume.pdf
+permalink: /assets/pdf/CV_mouhli_eng.pdf
 title: CV
 nav: true
 nav_order: 5
