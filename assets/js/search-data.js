@@ -21,7 +21,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/assets/pdf/Rayane_MOUHLI_resume.pdf";
+            window.location.href = "/assets/pdf/CV_mouhli_eng.pdf";
           },
         },{id: "nav-teaching",
           title: "Teaching",
