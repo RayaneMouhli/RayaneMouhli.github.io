@@ -14,7 +14,7 @@ nav_order: 5
 <div class="card mt-3">
   <div class="card-body">
     <h5 class="card-title">Mathématiques et Calcul 1 (Licence 1)<br><small class="text-muted">Mathematics and Calculus 1, 1st-year undergraduate</small></h5>
-    <h6 class="card-subtitle mb-3 text-muted"><i class="fas fa-chalkboard-teacher"></i> Chargé de TD<br><small>Teaching Assistant</small></h6>
+    <h6 class="card-subtitle mb-3"><i class="fas fa-chalkboard-teacher"></i> Chargé de TD<br><small class="text-muted">Teaching Assistant</small></h6>
     <p class="card-text mb-2"><strong>Corrections d'interrogation :</strong><br><small class="text-muted">Exam corrections:</small></p>
     <a href="https://rayanemouhli.github.io/assets/pdf/interro1_MC1.pdf" class="btn btn-sm btn-outline-primary mb-1" target="_blank"><i class="fas fa-file-pdf"></i> Logique, ensembles, fonctions<br><small>Logic, sets, functions</small></a>
     <a href="https://rayanemouhli.github.io/assets/pdf/interro2_MC1.pdf" class="btn btn-sm btn-outline-primary mb-1" target="_blank"><i class="fas fa-file-pdf"></i> Logique, ensembles, fonctions et Complexes<br><small>Logic, sets, functions and Complex numbers</small></a>
@@ -25,7 +25,7 @@ nav_order: 5
 <div class="card mt-3">
   <div class="card-body">
     <h5 class="card-title">Mathématiques et Calcul 2 (Licence 1)<br><small class="text-muted">Mathematics and Calculus 2, 1st-year undergraduate</small></h5>
-    <h6 class="card-subtitle mb-3 text-muted"><i class="fas fa-chalkboard-teacher"></i> Chargé de TD<br><small>Teaching Assistant</small></h6>
+    <h6 class="card-subtitle mb-3"><i class="fas fa-chalkboard-teacher"></i> Chargé de TD<br><small class="text-muted">Teaching Assistant</small></h6>
     <p class="card-text mb-2"><strong>Corrections d'interrogation :</strong><br><small class="text-muted">Exam corrections:</small></p>
     <a href="https://rayanemouhli.github.io/assets/pdf/interro1_MC2.pdf" class="btn btn-sm btn-outline-primary mb-1" target="_blank"><i class="fas fa-file-pdf"></i> Algèbre linéaire<br><small>Linear algebra</small></a>
     <a href="https://rayanemouhli.github.io/assets/pdf/Interro2_MC2.pdf" class="btn btn-sm btn-outline-primary mb-1" target="_blank"><i class="fas fa-file-pdf"></i> Géométrie et intégration<br><small>Geometry and integration</small></a>
@@ -38,19 +38,19 @@ nav_order: 5
 <div class="card mt-3">
   <div class="card-body">
     <h5 class="card-title">Mathématiques et Calcul 2 (Licence 1)<br><small class="text-muted">Mathematics and Calculus 2, 1st-year undergraduate</small></h5>
-    <h6 class="card-subtitle mb-3 text-muted"><i class="fas fa-chalkboard-teacher"></i> Chargé de TD & Encadrant de projet<br><small>Teaching Assistant & Project Supervisor</small></h6>
+    <h6 class="card-subtitle mb-3"><i class="fas fa-chalkboard-teacher"></i> Chargé de TD & Encadrant de projet<br><small class="text-muted">Teaching Assistant & Project Supervisor</small></h6>
     <p class="card-text mb-2"><strong>Corrections d'interrogation :</strong><br><small class="text-muted">Exam corrections:</small></p>
     <a href="https://rayanemouhli.github.io/assets/pdf/MC2-alglin-2425.pdf" class="btn btn-sm btn-outline-primary mb-1" target="_blank"><i class="fas fa-file-pdf"></i> Algèbre linéaire<br><small>Linear algebra</small></a>
     <a href="https://rayanemouhli.github.io/assets/pdf/MC2-geomint-2425.pdf" class="btn btn-sm btn-outline-primary mb-1" target="_blank"><i class="fas fa-file-pdf"></i> Géométrie et intégrales <small>(par G. Serieys)</small><br><small>Geometry and integrals (by G. Serieys)</small></a>
     <a href="https://rayanemouhli.github.io/assets/pdf/MC2-integration-2425.pdf" class="btn btn-sm btn-outline-primary mb-1" target="_blank"><i class="fas fa-file-pdf"></i> Intégration<br><small>Integration</small></a>
-    <a href="https://rayanemouhli.github.io/assets/pdf/MC2-int_series_edo-2425.pdf" class="btn btn-sm btn-outline-primary mb-1" target="_blank"><i class="fas fa-file-pdf"></i> Intégration, séries num. et EDO <small>(par G. Serieys)</small><br><small>Integration, numerical series and ODEs (by G. Serieys)</small></a>
+    <a href="https://rayanemouhli.github.io/assets/pdf/MC2-int_series_edo-2425.pdf" class="btn btn-sm btn-outline-primary mb-1" target="_blank"><i class="fas fa-file-pdf"></i> Intégration, séries num. et EDO <small>(par G. Serieys)</small><br><small>Integration, numerical series and ODE (by G. Serieys)</small></a>
   </div>
 </div>
 
 <div class="card mt-3">
   <div class="card-body">
     <h5 class="card-title">Calcul différentiel et systèmes dynamiques (Licence 3)<br><small class="text-muted">Differential calculus and dynamical systems, 3rd-year undergraduate</small></h5>
-    <h6 class="card-subtitle mb-2 text-muted"><i class="fas fa-chalkboard-teacher"></i> Chargé de TD<br><small>Teaching Assistant</small></h6>
+    <h6 class="card-subtitle mb-2"><i class="fas fa-chalkboard-teacher"></i> Chargé de TD<br><small class="text-muted">Teaching Assistant</small></h6>
   </div>
 </div>
 
@@ -59,7 +59,7 @@ nav_order: 5
 <div class="card mt-3">
   <div class="card-body">
     <h5 class="card-title">Mathématiques et Calcul 2 (Licence 1)<br><small class="text-muted">Mathematics and Calculus 2, 1st-year undergraduate</small></h5>
-    <h6 class="card-subtitle mb-3 text-muted"><i class="fas fa-chalkboard-teacher"></i> Chargé de TD<br><small>Teaching Assistant</small></h6>
+    <h6 class="card-subtitle mb-3"><i class="fas fa-chalkboard-teacher"></i> Chargé de TD<br><small class="text-muted">Teaching Assistant</small></h6>
     <p class="card-text mb-2"><strong>Corrections d'interrogation :</strong><br><small class="text-muted">Exam corrections:</small></p>
     <a href="https://rayanemouhli.github.io/assets/pdf/MC2-alglin-2324.pdf" class="btn btn-sm btn-outline-primary mb-1" target="_blank"><i class="fas fa-file-pdf"></i> Algèbre linéaire<br><small>Linear algebra</small></a>
     <a href="https://rayanemouhli.github.io/assets/pdf/MC2-geomint-2324.pdf" class="btn btn-sm btn-outline-primary mb-1" target="_blank"><i class="fas fa-file-pdf"></i> Géométrie et intégrales<br><small>Geometry and integrals</small></a>
