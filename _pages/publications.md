@@ -31,8 +31,11 @@ nav_order: 2
 
 - Oct. 2024 : Congrès des Jeunes Chercheurs en Mathématiques Appliquées ([CJC-MA](https://cjc-ma2024.sciencesconf.org/)) in Lyon, about "Decorrelation of vector fields with first variation of varifolds" ([slides](https://rayanemouhli.github.io/assets/pdf/CJCMA-talk.pdf)).
 
-### Evénements FP2M
-  - Jan. 2025 : Séminaire des doctorant.e.s de la FP2M ([programme](https://rayanemouhli.github.io/assets/pdf/Seminaire_FP2M_janv_2025)).
-  - Juin 2025 : Journée "Outils des jeunes chercheur.e.s" ([programme](https://rayanemouhli.github.io/assets/pdf/Seminaire_FP2M_juin_2025)).
-  - Jan. 2026 : Séminaire des doctorant.e.s de la FP2M ([programme](https://rayanemouhli.github.io/assets/pdf/Seminaire_FP2M_janv_2026)).
-  - Juin 2026 : Journée "Mathématiques et Société" ([programme](https://rayanemouhli.github.io/assets/pdf/Seminaire_FP2M_juin_2026)).
+### FP2M Events
+  - Jan. 2025: FP2M PhD Students' Seminar ([program](https://rayanemouhli.github.io/assets/pdf/Seminaire_FP2M_janv_2025)).
+  - June 2025: "Young Researchers' Tools" Day ([program](https://rayanemouhli.github.io/assets/pdf/Seminaire_FP2M_juin_2025)).
+  - Jan. 2026: FP2M PhD Students' Seminar ([program](https://rayanemouhli.github.io/assets/pdf/Seminaire_FP2M_janv_2026)).
+  - June 2026: "Mathematics and Society" Day ([program](https://rayanemouhli.github.io/assets/pdf/Seminaire_FP2M_juin_2026)).
+
+### Supervision
+  - Antonin Lecocq, 2nd-year undergraduate student
