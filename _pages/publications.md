@@ -38,4 +38,4 @@ nav_order: 2
   - June 2026: "Mathematics and Society" Day ([program](https://rayanemouhli.github.io/assets/pdf/Seminaire_FP2M_juin_2026)).
 
 ### Supervision
-  - Antonin Lecocq, 2nd-year undergraduate student
+  - [Antonin Lecocq](https://github.com/DJ4nto/Etude_du_groupe_de_Lie_SO_dans_le_cadre_de_l-analyse_de_formes), 2nd-year undergraduate student, 2 months internship.
