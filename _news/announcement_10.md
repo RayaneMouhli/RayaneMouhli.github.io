@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our preprint [A Varifold-Based Score for Decoupling Deformations in Shape Analysis](https://hal.science/hal-05704971v1/document), in collaboration with Barbara Gris and Irène Kaltenmark, is available.
+Our preprint [A Varifold-Based Score for Decoupling Deformations in Shape Analysis](https://arxiv.org/pdf/2607.27808), in collaboration with Barbara Gris and Irène Kaltenmark, is available.
