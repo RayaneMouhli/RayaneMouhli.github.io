@@ -4,6 +4,24 @@
 
 }
 
+@article{françois2026jointaffinediffeo,
+      title={A Framework for Joint Affine and Diffeomorphic Image Registration}, 
+      author={Anton François and Rayane Mouhli and Thomas Pierron},
+      year={2026},
+      eprint={2608.10769},
+      archivePrefix={arXiv},
+      primaryClass={math.DG},
+      url={https://arxiv.org/abs/2608.10769}, 
+      eprint={2608.10769},
+      journal={preprint},
+      archivePrefix={arXiv},
+      abstract={Anatomical image registration commonly relies on a sequential pipeline where an affine alignment is estimated first and then held fixed while a non-rigid diffeomorphic deformation is applied. This two-step process often leads to suboptimal results, as the initial stage can absorb local deformations, biasing the residual passed to the diffeomorphic registration. To address this, we introduce a Joint Affine-Diffeomorphic framework, based on the large deformations model, that estimates both global affine and local diffeomorphic motions simultaneously within a single optimization. We propose two models: a Full Affine (FA) model that combines affine and diffeomorphic deformations, and a Decomposed Affine (DA) model that restricts the affine part from FA to rotations, translations, and anisotropic scalings. To numerically implement these models for image registration tasks, we develop a tailored optimization strategy that combines progressive affine enrichment, gradually increasing the complexity of the affine component, with a variational weighting scheme that smoothly manages the coarse-to-fine handover between the affine and diffeomorphic components. Evaluated on 2D synthetic datasets and 3D brain MRIs from the IXI cohort, our unsupervised approach avoids the pathological deformations of sequential baselines. We demonstrate that our joint formulation outperforms in Dice overlap two state-of-the-art deep learning foundation models, CARL and uniGradI-CON, as well as a sequential baseline using FLIRT for the classical affine registration followed by LDDMM. Our implementation is publicly available.},
+      primaryClass={math.DG},
+      pdf={https://arxiv.org/pdf/2608.10769},
+      bibtex_show={true},
+      abbr={preprint},
+      selected={true}
+}
 @article{mouhli2026varifold,
       title={A Varifold-Based Score for Decoupling Deformations in Shape Analysis}, 
       author={Rayane Mouhli and Barbara Gris and Irène Kaltenmark},
