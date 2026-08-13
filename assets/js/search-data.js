@@ -66,7 +66,7 @@ ninja.data = [{
           title: 'Our preprint A Varifold-Based Score for Decoupling Deformations in Shape Analysis, in collaboration...',
           description: "",
           section: "News",},{id: "news-our-preprint-a-framework-for-joint-affine-and-diffeomorphic-image-registration-in-collaboration-with-anton-françois-and-thomas-pierron-is-available",
-          title: 'Our preprint A Framework for Joint Affine and Diffeomorphic Image Registration , in...',
+          title: 'Our preprint A Framework for Joint Affine and Diffeomorphic Image Registration, in collaboration...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
